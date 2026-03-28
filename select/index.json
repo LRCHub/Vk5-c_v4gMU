@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "Magnetic",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-03-28T10:11:35.140905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magnetic Hill",
+      "artist": "Land of Talk",
+      "has_synced": true,
+      "path": "select/01_Magnetic_Hill_Land_of_Talk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Magnetic",
+      "artist": "Moullinex",
+      "has_synced": false,
+      "path": "select/02_Love_Magnetic_Moullinex.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magnetic Eyes - Extended DJ Mix",
+      "artist": "Matrix & Futurebound feat. Baby Blue",
+      "has_synced": true,
+      "path": "select/03_Magnetic_Eyes_-_Extended_DJ_Mix_Matrix_&_Futurebound_feat._Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Extended DJ Mix)",
+      "artist": "Matrix & Futurebound Baby Blue",
+      "has_synced": true,
+      "path": "select/04_Magnetic_Eyes_(Extended_DJ_Mix)_Matrix_&_Futurebound_Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Pyramid Remix)",
+      "artist": "Matrix feat. Futurebound & Baby Blue",
+      "has_synced": false,
+      "path": "select/05_Magnetic_Eyes_(Pyramid_Remix)_Matrix_feat._Futurebound_&_Baby_Blue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Pyramid Remix)",
+      "artist": "Matrix & Futurebound Baby Blue",
+      "has_synced": false,
+      "path": "select/06_Magnetic_Eyes_(Pyramid_Remix)_Matrix_&_Futurebound_Baby_Blue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (radio edit)",
+      "artist": "Matrix & Futurebound",
+      "has_synced": false,
+      "path": "select/07_Magnetic_Eyes_(radio_edit)_Matrix_&_Futurebound.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Radio Edit)",
+      "artist": "Matrix & Futurebound Baby Blue",
+      "has_synced": false,
+      "path": "select/08_Magnetic_Eyes_(Radio_Edit)_Matrix_&_Futurebound_Baby_Blue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Smooth Remix)",
+      "artist": "Matrix & Futurebound feat. Baby Blue",
+      "has_synced": true,
+      "path": "select/09_Magnetic_Eyes_(Smooth_Remix)_Matrix_&_Futurebound_feat._Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (Smooth Remix)",
+      "artist": "Matrix & Futurebound Baby Blue",
+      "has_synced": true,
+      "path": "select/10_Magnetic_Eyes_(Smooth_Remix)_Matrix_&_Futurebound_Baby_Blue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magnetic Eyes (TC Remix)",
+      "artist": "Matrix & Futurebound feat. Baby Blue",
+      "has_synced": false,
+      "path": "select/11_Magnetic_Eyes_(TC_Remix)_Matrix_&_Futurebound_feat._Baby_Blue.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magnetic",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/12_Magnetic_Yello.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feeling Magnetic",
+      "artist": "Allan Kingdom",
+      "has_synced": false,
+      "path": "select/13_Feeling_Magnetic_Allan_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Magnetic Field",
+      "artist": "Lights",
+      "has_synced": true,
+      "path": "select/14_Magnetic_Field_Lights.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magnetic",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/15_Magnetic_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magnetic",
+      "artist": "Annabel Jones",
+      "has_synced": true,
+      "path": "select/16_Magnetic_Annabel_Jones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magnetic",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Magnetic_ILLIT.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Magnetic",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/localdb_01_Magnetic_ILLIT.txt",
+      "repo_name": "6KIuzXYR16Y"
+    }
+  ]
+}
